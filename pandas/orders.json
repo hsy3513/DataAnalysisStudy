@@ -1,0 +1,8 @@
+[
+    {"order_id": "A001", "customer_id": 101, "item": "스피커", "amount": 1200000},
+    {"order_id": "A002", "customer_id": 103, "item": "키보드", "amount": 40000},
+    {"order_id": "A003", "customer_id": 102, "item": "티셔츠", "amount": 25000},
+    {"order_id": "A004", "customer_id": 101, "item": "노트북", "amount": 1000000},
+    {"order_id": "A005", "customer_id": 105, "item": "모니터", "amount": 250000},
+    {"order_id": "A006", "customer_id": 101, "item": "마우스", "amount": 66000}
+]

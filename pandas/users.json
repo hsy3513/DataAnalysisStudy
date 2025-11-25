@@ -1,0 +1,6 @@
+[
+    {"user_id":101, "name": "이지금", "addr": "서울"},
+    {"user_id":102, "name": "오햇님", "addr": "진주"},
+    {"user_id":103, "name": "어남선", "addr": "부천"},
+    {"user_id":104, "name": "공지철", "addr": "부산"}
+]

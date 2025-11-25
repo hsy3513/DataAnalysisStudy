@@ -1,0 +1,11 @@
+{
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "liveServer.settings.fullReload": false,
+  "liveServer.settings.host": "192.168.40.57",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff"
+  }
+}

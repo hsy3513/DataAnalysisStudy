@@ -1,0 +1,11 @@
+Region,Product_Category,Sales_Amount,Units_Sold,Customer_Rating,Promotion_Used
+East,Electronics,450.0,5,4.5,Yes
+West,Apparel,200.0,4,3.0,No
+East,Electronics,550.0,6,5.0,Yes
+South,Home,150.0,2,,No
+West,Apparel,320.0,7,4.0,Y
+East,Electronics,1500.0,15,3.5,No
+North,Home,180.0,3,,Yes
+East,Apparel,250.0,,4.5,No
+West,Electronics,480.0,8,5.0,Y
+South,Home,,3,3.0,No
